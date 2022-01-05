@@ -33,7 +33,15 @@ Here are the slides for the first lecture:
 
 You need data if you're going to do a data project!  Here are some ideas.
 
-- [Seaborn](https://python.plainenglish.io/9-datasets-for-data-science-ml-beginners-cfb57df53fda) Well, these aren't good for your project, but they are excellent for trying out different plot styles and learning Seaborn better.
+- [Seaborn](https://python.plainenglish.io/9-datasets-for-data-science-ml-beginners-cfb57df53fda) -- Well, these aren't good for your project, but they are excellent for trying out different plot styles and learning Seaborn better.
 - [Kaggle](https://www.kaggle.com/datasets) --- Tons of data sets uploaded by users.  I would recommend checking here first!
 - [Tableau](https://www.tableau.com/learn/articles/free-public-data-sets) --- They sell online data visualization software.  They also provide some free sets you can download.
 - [FiveThirtyEight](https://data.fivethirtyeight.com/) --- A famous prediction site, one of the few to predict that Trump would beat Clinton.  They have tons of data to download!
+
+- [Edward Tufte](https://www.edwardtufte.com/tufte/books_vdqi)  --- Not data, but a book on producing charts; both what to do an things to avoid.
+
+## Other documentaion
+
+- [Data Frames](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.html) --- The data frame structure comes from Pandas.  There is a LOT you can do with it.
+  Here is the official documentation.
+- [Data Frame Tutorial](https://www.tutorialspoint.com/python_pandas/python_pandas_dataframe.htm) --- A gentler walkthrough of data frames.
