@@ -28,6 +28,9 @@ Here are the slides for the first lecture:
 
 ## Second Lecture -- Introduction to Seaborn
 
+ - [`Iris.ipynb`](Iris.ipynb) uses the Iris built-in dataset.
+ - [`Iris-class.ipynb`](Iris-class.ipynb) is the in-class version.
+ - [`Happy.ipynb`](Happy.ipynb) Uses the World happiness dataset from Kaggle.  Unfortunately my attempt to combine the different years did not work so well.
 
 ## Resources for data projects
 
