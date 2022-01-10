@@ -32,6 +32,13 @@ Here are the slides for the first lecture:
  - [`Iris-class.ipynb`](Iris-class.ipynb) is the in-class version.
  - [`Happy.ipynb`](Happy.ipynb) Uses the World happiness dataset from Kaggle.  Unfortunately my attempt to combine the different years did not work so well.
 
+## Third Lecture -- Analyzing data
+
+ - [`ascombe.ipynb`](ascombe.ipynb) - Four data sets with the same linear regression line, only one of which is appropriate.
+ - [`covid.ipynb`](covid.ipynb) - Statistics on the Omicron variabt.
+ - [`insurance.ipynb`](insurance.ipynb) - Smokers vs non-smokers
+ - [`company_ipo.ipynb`](company_ipo.ipynb) - A data set we had to clean (converting dollar amounts to floating points).
+
 ## Resources for data projects
 
 You need data if you're going to do a data project!  Here are some ideas.
