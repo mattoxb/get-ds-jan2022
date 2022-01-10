@@ -35,7 +35,7 @@ Here are the slides for the first lecture:
 ## Third Lecture -- Analyzing data
 
  - [`ascombe.ipynb`](ascombe.ipynb) - Four data sets with the same linear regression line, only one of which is appropriate.
- - [`covid.ipynb`](covid.ipynb) - Statistics on the Omicron variabt.
+ - [`covid.ipynb`](covid.ipynb) - Statistics on the Omicron variant.
  - [`insurance.ipynb`](insurance.ipynb) - Smokers vs non-smokers
  - [`company_ipo.ipynb`](company_ipo.ipynb) - A data set we had to clean (converting dollar amounts to floating points).
 
